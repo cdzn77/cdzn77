@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
-  <img src="assets/header-light.png" width="100%" alt="Angelo Manzano Jr. of ChrowmDesigns, est. 1999, Palm Bay, Florida. UX strategy that leaves the building as code. WCAG 2.2 is the floor, not the goal.">
-</picture>
+<img src="assets/header.png" width="100%" alt="Angelo Manzano Jr., senior UX strategist at ChrowmDesigns, est. 1999 in Palm Bay, Florida. UX strategy that leaves the building as code. 20+ years, WCAG 2.2 baseline.">
 
 **Senior UX strategist at [ChrowmDesigns](https://chrowmdesigns.com). Designer who ships code.**
 
